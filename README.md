@@ -116,7 +116,7 @@ We welcome contributions! To get started:
 ## 📞 **Contact**
 
 👨‍💻 Developed by **[JasGigli](https://jasgigli.vercel.app)**  
-📧 Email: soverview.jjj@gmail.com
+📧 Email: overview.jjj@gmail.com
 
 ---
 
